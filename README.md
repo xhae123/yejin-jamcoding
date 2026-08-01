@@ -2,6 +2,18 @@
 
 HTML/CSS 학습용 개인 저장소입니다. 주차별 과제 결과물을 폴더로 정리합니다.
 
+## 배포 주소 (GitHub Pages)
+
+https://xhae123.github.io/yejin-jamcoding/
+
+주소 끝에 `?week=숫자`를 붙이면 해당 주차 과제로 이동합니다.
+
+| 주차 | 링크 |
+| --- | --- |
+| week-1 | https://xhae123.github.io/yejin-jamcoding/?week=1 |
+
+새 주차 과제를 추가할 때는 `week-N` 폴더를 만들고 그 안에 `index.html`을 넣기만 하면 `?week=N` 주소로 바로 접속됩니다.
+
 ## 폴더 구조
 
 | 폴더 | 과제 내용 |
