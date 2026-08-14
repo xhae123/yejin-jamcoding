@@ -1,6 +1,6 @@
 # CLAUDE.md — 조예진 포트폴리오 콘텐츠 채우기 하네스
 
-이 문서는 Claude Code가 이 폴더(`week3/`)의 **자체 제작 포트폴리오 템플릿**에
+이 문서는 Claude Code가 이 폴더(`week-3/`)의 **자체 제작 포트폴리오 템플릿**에
 실제 콘텐츠와 애셋을 채워 넣도록 돕는 인터뷰 가이드입니다.
 
 > ⚠️ 중요 — 이 템플릿은 어떤 특정 웹사이트의 복제물이 아니라 처음부터 새로 작성한
@@ -14,7 +14,7 @@
 ## 이 프로젝트 구조
 
 ```
-week3/
+week-3/
 ├─ index.html        # 마크업 (섹션: Hero / Work / About / Contact)
 ├─ css/styles.css    # 스타일 (테마 변수는 :root 상단)
 ├─ js/main.js        # 테마 토글, 모바일 메뉴, 스크롤 리빌
@@ -22,7 +22,7 @@ week3/
 └─ CLAUDE.md         # ← 이 파일
 ```
 
-로컬 확인: `week3/index.html`을 브라우저로 열면 됩니다(순수 HTML/CSS/JS라 서버 불필요).
+로컬 확인: `week-3/index.html`을 브라우저로 열면 됩니다(순수 HTML/CSS/JS라 서버 불필요).
 
 ---
 
