@@ -1,0 +1,10 @@
+# Local reference-only mirror of a third-party site — do NOT commit/redistribute (copyright)
+abhijitrout-copy/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+node_modules/
